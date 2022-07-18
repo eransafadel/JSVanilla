@@ -1,4 +1,4 @@
-# Frontend - Assigment By Eran Safadel
+# Frontend Assigment By Eran Safadel
 
 ## Welcome! 👋
 
