@@ -1,0 +1,18 @@
+.my-image {
+    width: 30px;
+    height: 30px;
+    margin-left:40px;
+  }
+
+  .content{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    max-width: 600px;
+  }
+
+  .btn button{
+
+    margin:5px;
+  }
